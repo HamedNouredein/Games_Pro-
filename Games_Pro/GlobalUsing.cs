@@ -1,0 +1,9 @@
+﻿global using Games_Pro.Data;
+global using Microsoft.EntityFrameworkCore;
+global using System.ComponentModel.DataAnnotations;
+global using Games_Pro.ViewModel;
+global using Microsoft.AspNetCore.Mvc;
+global using Games_Pro.Models;
+global using Microsoft.AspNetCore.Mvc.Rendering;
+global using Games_Pro.Service;
+global using Games_Pro.Setting;
